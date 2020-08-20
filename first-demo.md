@@ -6,6 +6,8 @@
 
 ### also made to practice with command line for git
 
-## ths sentance will have intentional tyops
+## this sentence will have intentional typos
+
+## corrected the typos above
 
 # end of file
